@@ -1,0 +1,42 @@
+{
+	"links": [
+		{
+			"title": "Файл Сервера TORRSERV ARM ARM7",
+			"description": "Файл для ручной установки TORRSERVE 32 bit",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm7.so",
+			"mirror": "https://technozon.s-host.net/TorrServer-android-arm7.so",
+			"app_review": "https://youtu.be/TTM1ekrQw8U",
+			"category": "Обход блокировок"
+		},
+		{
+			"title": "Файл Сервера TORRSERV ARM64 ",
+			"description": "Файл для ручной установки TORRSERVE 64 bit",
+			"url": "https://tecnozon.h1n.ru/TorrServer-android-arm64.so",
+			"mirror": "https://technozon.s-host.net/TorrServer-android-arm64.so",
+			"app_review": "https://youtu.be/TTM1ekrQw8U",
+			"category": "Обход блокировок"
+		},
+		{
+			"title": "Файл ANTIZAPRET для OPEN VPN",
+			"description": "Обход блокировок в России ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://antizapret.prostovpn.org/antizapret-tcp.ovpn",
+			"app_review": "https://youtu.be/TTM1ekrQw8U",
+			"category": "Обход блокировок"
+		},
+		{
+			"title": "Файл ZABORONA для OPEN VPN",
+			"description": "Обход блокировок в Украине ЗАЖАТЬ ДЛЯ ОБЗОРА",
+			"url": "https://zaborona.help/openvpn-client-config/zaborona-help_maxroutes.ovpn",
+			"app_review": "https://youtu.be/TTM1ekrQw8U",
+			"category": "Обход блокировок"
+		}
+	],
+	"apps": [
+		{
+			"title": "4PDA",
+			"description": "Приложение для форума 4PDA",
+			"url": "https://disk.yandex.by/d/QxjpgP-zOUYK2g",
+			"category": "apps"
+		}
+	]
+}
